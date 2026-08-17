@@ -171,7 +171,8 @@ The system accepts a business problem and optional business data, processes the 
 
 ### Architecture Diagram
 
-![AI Management Consultant Architecture](architecture_diagram.jpeg)
+![AI Management Consultant Architecture]
+
 
 ---
 
@@ -218,6 +219,7 @@ AI-Management-Consultant/
 │
 ├── PROJECT_DOCUMENTATION.md
 └── AI_Management_Consultant.pptx
+```
 
 # ⚙️ Installation & Setup
 
