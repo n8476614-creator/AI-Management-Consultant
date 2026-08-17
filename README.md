@@ -367,7 +367,6 @@ The AI Management Consultant provides an AI-powered approach to business consult
 The system brings together multiple areas of analysis and transforms them into practical recommendations, risk insights, action plans, and an executive-level consulting report.
 
 ---
----
 
 # 👩‍💻 Author
 
