@@ -150,6 +150,7 @@ The main objectives of this project are:
                             │
                             ▼
                      📥 PDF Report
+```
 
 ---
 
