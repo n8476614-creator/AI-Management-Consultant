@@ -170,11 +170,7 @@ The system accepts a business problem and optional business data, processes the 
 - **PDF Generation Layer** — Converts the final consulting output into a downloadable PDF report.
 
 ### Architecture Diagram
-
-![AI Management Consultant Architecture]
-
-
----
+  [Arichecture_diagram.jpeg]
 
 ---
 
