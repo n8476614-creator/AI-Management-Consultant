@@ -199,23 +199,33 @@ AI-Management-Consultant/
 ├── tools.py
 ├── requirement.txt
 ├── .gitignore
+│
 ├── architecture_diagram.jpeg
 │
 ├── screenshots/
-│   ├── dashboard.png
-│   ├── business_data.png
-│   ├── business_analysis.png
-│   ├── market_research.png
-│   ├── competitor_analysis.png
-│   ├── financial_analysis.png
-│   └── reports.png
+│   ├── main dashboard.jpeg
+│   ├── business_data.jpeg
+│   ├── kpi_dashboard.jpeg
+│   ├── business_insights.jpeg
+│   ├── business_input.jpeg
+│   ├── executive_report.jpeg
+│   ├── risk_assessment.jpeg
+│   ├── trend_analysis.jpeg
+│   ├── business_segmentation.jpeg
+│   ├── action_plan.jpeg
+│   ├── decision_scorecard.jpeg
+│   ├── key_decision.jpeg
+│   ├── pdf_report.png
+│   └── ai_agents.jpeg
 │
 ├── demo/
 │   └── demo-video-link.txt
 │
 ├── PROJECT_DOCUMENTATION.md
+│
 └── AI_Management_Consultant.pptx
 ```
+---
 
 # ⚙️ Installation & Setup
 
