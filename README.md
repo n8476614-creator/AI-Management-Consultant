@@ -230,6 +230,7 @@ Follow these steps to install and run the AI Management Consultant locally.
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd AI-Management-Consultant
+```
 
 ## 2. Create a Virtual Environment
 
@@ -237,6 +238,7 @@ Create a Python virtual environment:
 
 ```bash
 python -m venv .venv
+```
 
 ## 3. Install Dependencies
 
@@ -244,6 +246,7 @@ Install the required Python packages using:
 
 ```bash
 pip install -r requirement.txt
+```
 
 ## 4. Configure the API Key
 
@@ -251,6 +254,7 @@ Create a `.env` file in the project directory and add your OpenAI API key:
 
 ```env
 OPENAI_API_KEY=your_api_key_here
+```
 
 ## 5. Run the Application
 
@@ -258,6 +262,7 @@ Start the Streamlit application using:
 
 ```bash
 streamlit run app.py
+```
 
 ## 6. How to Use the Application
 
