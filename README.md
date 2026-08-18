@@ -200,7 +200,9 @@ AI-Management-Consultant/
 ├── requirement.txt
 ├── .gitignore
 │
-├── architecture_diagram.jpeg
+├── system architecture.jpeg
+├── agent_architecture.jpeg
+├── implementation_workflow.jpeg
 │
 ├── screenshots/
 │   ├── main dashboard.jpeg
