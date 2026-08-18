@@ -169,9 +169,6 @@ The system accepts a business problem and optional business data, processes the 
 - **Executive Reporting Layer** — Generates the final consultant report, risk assessment, action plan, and decision scorecard.
 - **PDF Generation Layer** — Converts the final consulting output into a downloadable PDF report.
 
-### Architecture Diagram
-  ![Architecture diagram](https://github.com/n8476614-creator/AI-Management-Consultant/blob/main/Architecture_diagram%20.jpeg?raw=true)
-
 ---
 
 # 🛠️ Technologies Used
