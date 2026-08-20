@@ -222,7 +222,7 @@ AI-Management-Consultant/
 │
 ├── PROJECT_DOCUMENTATION.md
 │
-└── AI_Management_Consultant.pptx
+└── Multi-Agent-AI-System-for-Business-Intelligence-and-Strategic-Decision-making.pdf
 ```
 ---
 
